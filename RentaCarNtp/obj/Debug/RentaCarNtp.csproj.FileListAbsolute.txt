@@ -1,0 +1,34 @@
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\bin\Debug\RentaCarNtp.exe.config
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\bin\Debug\RentaCarNtp.exe
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\bin\Debug\RentaCarNtp.pdb
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.anaSayfa.resources
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.formMusteriEkle.resources
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.exe
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.pdb
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.formMusteriListele.resources
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.formAracEkle.resources
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.FormAracListesi.resources
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.FormSozlesme.resources
+C:\Users\Yusuf\source\repos\ntp\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.FormSatislar.resources
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\bin\Debug\RentaCarNtp.exe.config
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\bin\Debug\RentaCarNtp.exe
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\bin\Debug\RentaCarNtp.pdb
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.anaSayfa.resources
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.formAracEkle.resources
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.FormAracListesi.resources
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.formMusteriEkle.resources
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.formMusteriListele.resources
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.FormSatislar.resources
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.FormSozlesme.resources
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.exe
+C:\Users\Yusuf\Desktop\NTP Rent A Car Otomasyonu Yusuf Bedirhan GENÇ 192212010\Proje Kodları\C# Kodları\RentaCarNtp\RentaCarNtp\obj\Debug\RentaCarNtp.pdb
